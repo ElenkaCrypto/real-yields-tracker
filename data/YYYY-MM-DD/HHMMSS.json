@@ -1,0 +1,12 @@
+
+Each file:
+```json
+{
+  "ts": "2025-09-30T18:45:02+00:00",
+  "source": "DefiLlama Yields",
+  "filters": {"chains": ["Arbitrum","Base","Ethereum","Optimism"], "top_n": 50},
+  "rows": [
+    {"project":"Uniswap V3","chain":"Ethereum","symbol":"WETH/USDC","apy":3.1,"tvlUsd":123456789, "url":"..."},
+    ...
+  ]
+}
